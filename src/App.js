@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import Title from "./components/Title";
 import Pokemon from "./components/Pokemon/Pokemon";
 
