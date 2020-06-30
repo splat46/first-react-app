@@ -1,0 +1,8 @@
+.card {
+  border-radius: 0;
+  transition-duration: 2s;
+  box-shadow: 10px 10px #ededed;
+}
+.pokemon:hover {
+  transform: rotate(360deg);
+}
